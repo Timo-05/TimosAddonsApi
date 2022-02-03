@@ -1,11 +1,4 @@
 {
-    "moduleName": "TA",
-    "latestVersion": "3.0.1",
-    "dependencies": [
-        "Vigilance",
-        "RenderLib"
-    ],
-    "author": "TimoK",
     "changelog": [
         "Option to show black borders around player icons like SBA's map.",
         "Added percentages to rooms and puzzles in /dlogs command.",
