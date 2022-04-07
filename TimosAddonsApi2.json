@@ -32,8 +32,8 @@
    ],
   "version": "3.2.6",
   "changelog": [
-    "line1",
-    "John Xina",
+    "Better Whitelist",
+    "No infinite unable to verify",
     "epic changelog"
   ]
 }
