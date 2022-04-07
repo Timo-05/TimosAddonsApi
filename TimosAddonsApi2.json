@@ -3,5 +3,10 @@
     "2dfb542cc5dfce6f5eec873efaf2c5c2b93953f2",
     "-654773138dbf7ffb563487312179ba3dab6e48d5"
    ],
-  "version": "3.2.5"
+  "version": "3.2.5",
+  "changelog": [
+    "trying the changelog",
+    "second Line",
+    "Bīngqílín"
+  ]
 }
