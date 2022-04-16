@@ -31,9 +31,9 @@
     "-77c36f056e7d6e513bd6579250ff15c1ef676145",
     "25fd9dcde5a51e81033283b1d437d18b0e6099c9"
    ],
-  "version": "3.2.7",
+  "version": "3.3.0",
   "changelog": [
-    "Settings koennen wieder geoeffnet werden",
-    "wieder eine test message"
+    "Slayer Aimbot",
+    "Auto Clicker speed ist einstellbar"
   ]
 }
