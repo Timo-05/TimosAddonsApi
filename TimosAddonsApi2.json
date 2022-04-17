@@ -31,10 +31,10 @@
     "-77c36f056e7d6e513bd6579250ff15c1ef676145",
     "25fd9dcde5a51e81033283b1d437d18b0e6099c9"
    ],
-  "version": "3.3.0",
+  "version": "3.3.1",
   "changelog": [
     "Slayer Aimbot",
-    "Auto Clicker speed ist einstellbar",
-    "Bessere update notification"
+    "Smarter aimbot",
+    "kleiner ghost macro bugfix"
   ]
 }
