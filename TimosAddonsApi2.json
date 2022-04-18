@@ -32,10 +32,9 @@
     "25fd9dcde5a51e81033283b1d437d18b0e6099c9",
     "43bfbb26d6839e502a9314173d5b5b1dcaaa08a9"
    ],
-  "version": "3.3.1",
+  "version": "3.4.0",
   "changelog": [
-    "Slayer Aimbot",
-    "Smarter aimbot",
-    "kleiner ghost macro bugfix"
+    "Sound System",
+    "Dababy ghosts"
   ]
 }
