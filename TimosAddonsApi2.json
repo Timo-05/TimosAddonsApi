@@ -33,12 +33,11 @@
     "-432328ffbc60cc9692a50e0fc780e622618da5a6",
     "15710896f8eb3b797ae2ba4865f189703793f210"
    ],
-  "version": "3.6.0",
+  "version": "3.7.0",
   "changelog": [
-    "Blaze slayer overlay",
-    "Blaze slayer esp",
-    "Blaze aimbot",
-    "Player esp bugfix",
-    "/ta killplayers (kills all players)"
+    "blaze hud verbessert(vielleicht)",
+    "/ta kp -> mach das gleiche wie /ta killplayers",
+    "immer alle spieler killen option | slayer -> blaze -> click through players",
+    "bestimt mehr, was ich vergessen habe"
   ]
 }
