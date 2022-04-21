@@ -31,12 +31,12 @@
     "25fd9dcde5a51e81033283b1d437d18b0e6099c9",
     "43bfbb26d6839e502a9314173d5b5b1dcaaa08a9"
    ],
-  "version": "3.4.0",
+  "version": "3.6.0",
   "changelog": [
-    "besseres fishing macro",
-    "bessere player esp names",
-    "kleiner ghost macro bugfix(1.hud, 2. kleiner failsafe fix)",
-    "aimbot einstellungen(spieler nicht anfreifen)",
-    "nerfige spieler oder mobs entfernen(/ta dead, während ihr das mob anschaut"
+    "Blaze slayer overlay",
+    "Blaze slayer esp",
+    "Blaze aimbot",
+    "Player esp bugfix",
+    "/ta killplayers (kills all players)"
   ]
 }
