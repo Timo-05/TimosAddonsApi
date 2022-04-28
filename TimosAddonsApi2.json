@@ -34,11 +34,10 @@
     "-16018240bb9a81019ac08a2c1be433620f5debbf",
     "-6431ed035e6ceb2bab5a224881e689a360a6fef7"
    ],
-  "version": "3.7.1",
+  "version": "3.7.2",
   "changelog": [
-    "Nico ist ein hurensohn",
-    "Lass mich doch gemstones macron",
-    "iroh ist auch nerfig",
-    " + auto inventory clear on island"
+    "Besseres fisching magro(geht sogar gut bei lava fishing)",
+    "Autoclicker hold funktion",
+    "Crimson vulcan eruption warning"
   ]
 }
