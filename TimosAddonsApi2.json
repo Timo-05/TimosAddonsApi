@@ -37,10 +37,13 @@
     "-7420f9fb7fbf3d7766c858c989b245b57b7343f0",
     "-6237d643515421a4c83f8aff057e2e3cc96a262e"
    ],
-  "version": "3.7.2",
+  "version": "3.7.3",
   "changelog": [
-    "Besseres fisching magro(geht sogar gut bei lava fishing)",
-    "Autoclicker hold funktion",
-    "Crimson vulcan eruption warning"
+    "Vclip (teleportiert euch nach unten durch den boden(/ta vclip)",
+    "Sack auto clicker(leert automatisch sacks aus",
+    "Dojo Esps(machen es hoffentlich einfacher)",
+    "Ta user names fix",
+    "Blaze Esp bugfix",
+    "entfernen von nutzlosem code / commands"
   ]
 }
