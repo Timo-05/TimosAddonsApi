@@ -39,9 +39,12 @@
     "5a6912dc8afe409ae01333a4c78a38e8517e9f9c",
     "76d95c0f000477c29357c0f7446bfe89adc78ce6"
    ],
-  "version": "3.8.1",
+  "version": "3.9.0",
   "changelog": [
-    "ghost macro invwalkt nicht mehr",
-    "ghost macro strafen und sneaken ausschaltbar"
+    "Ghost Blocks",
+    "Ghost hand(chest durch waende oeffnen)",
+    "antiKB",
+    "nether miniboss esp",
+    "chest esp bugfix"
   ]
 }
